@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Timer</string>
+
+    <string name="start">시작</string>
+    <string name="stop">멈춤</string>
+    <string name="reset">초기화</string>
+</resources>
